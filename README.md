@@ -15,10 +15,16 @@ next step name your mobile App (any name you like, i will use myFirstProject) an
 ```
     create-react-native-app myFirstProject
 ``` 
-enter the root file and create the dependences and server
+
+Enter the root file and create the dependences and server
 ```
     cd myFirstProject
     npm start
+``` 
+
+You also can use React-native CLI
+```
+    react-native init myFirstProject
 ``` 
 
 ## Optional
